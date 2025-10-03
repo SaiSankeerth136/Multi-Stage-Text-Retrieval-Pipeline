@@ -1,0 +1,9 @@
+beir 
+sentence-transformers 
+torch transformers 
+faiss-cpu 
+lightgbm 
+tqdm 
+optuna 
+rank_bm25 
+FlagEmbedding
